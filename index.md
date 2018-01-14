@@ -5,4 +5,10 @@
 layout: page
 title: Home
 ---
-# Bobby Wagner
+# Projects of Interest
+- Currently I contribute to [OpenMined](https://openmined.org/)
+- Created a ervice for Partnering people walking to the same place called Walkmate:
+    -[code](https://github.com/buckbaskin/walkmate)
+- Generation of Pretty Pictures using p5.js and random movement 
+    -[code](https://github.com/robert-wagner/prettypictures)
+    -[picture](https://bobby-wagner.com/prettypictures)
