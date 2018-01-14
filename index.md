@@ -14,4 +14,4 @@ title: Home
     
     -[code](https://github.com/robert-wagner/prettypictures)
     
-    -[picture](https://bobby-wagner.com/prettypictures)
+    -[picture](http://bobby-wagner.com/prettypictures)
