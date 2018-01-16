@@ -10,4 +10,4 @@ Currently I perform research on distributional semantics in the lab of Soumya Ra
 
 During Summer 2018 I am scheduled to intern at Yelp on one of the Data Backend teams.
 
-My resume can be found [here](https://bobby-wagner.com/resume)
+My resume can be found [here](http://bobby-wagner.com/resume)
