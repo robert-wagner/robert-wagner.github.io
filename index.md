@@ -7,7 +7,7 @@ title: Home
 ---
 # Projects of Interest
 - Currently I contribute to [OpenMined](https://openmined.org/)
-- Created a ervice for Partnering people walking to the same place called Walkmate:
+- Created a service for Partnering people walking to the same place called Walkmate:
     
     -[code](https://github.com/buckbaskin/walkmate)
 - Generation of Pretty Pictures using p5.js and random movement 
